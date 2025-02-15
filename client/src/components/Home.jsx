@@ -21,7 +21,7 @@ const Component = ()=>{
                         <p className="od">Mobile No. : 8956751536</p>
                     </div>
                     <div className="profilepic">
-                        <img src="/assets/1329914.jpeg" alt="Student Picture" className="pic"/>
+                        <img src="/assets/Student_image.jfif" alt="Student Picture" className="pic"/>
                     </div>
                 </div>
                 <div className="information">

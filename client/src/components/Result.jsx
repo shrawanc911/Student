@@ -150,9 +150,9 @@ const Result = ()=>{
                     <div className='box'>
                     <div className='result-calculation-data'>
                         <div className='result-calculation-data-all'>Name</div>
-                        <div className='result-calculation-data-all'>Shrawan Kumar</div>
+                        <div className='result-calculation-data-all'>Vandan Nandwana</div>
                         <div className='result-calculation-data-all'>Enrollment</div>
-                        <div className='result-calculation-data-all'>2203051050542</div>
+                        <div className='result-calculation-data-all'>2203051050376</div>
                         <div className='result-calculation-data-all'>Backlog</div>
                         <div className='result-calculation-data-all'>{backlog}</div>
                         <div className='result-calculation-data-all'>SGPA</div>
